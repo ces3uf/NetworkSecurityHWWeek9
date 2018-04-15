@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5ad3a219616a1e77bbac673c" }, "protocol" : "mysqld", "hpfeed_id" : { "$oid" : "5ad3a216616a1e77bbac673b" }, "timestamp" : { "$date" : "2018-04-15T19:03:50.462+0000" }, "source_ip" : "199.111.225.142", "source_port" : 8248, "destination_port" : 3306, "identifier" : "89451dfa-40df-11e8-93f2-42010a800002", "honeypot" : "dionaea" }
